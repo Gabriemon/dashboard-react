@@ -24,8 +24,8 @@ function NavNotice() {
         <li className='notification-item'>
             <i className='bi bi-exclamation-circle text-warning'></i>
             <div>
-                <h4>Lorem Ipsum</h4>
-                <p>Quae Dolorem earum veritatis oditseno</p>
+                <h4>Aviso</h4>
+                <p>Você possui um aviso</p>
                 <p>30 min. ago</p>
             </div>
         </li>
@@ -37,8 +37,8 @@ function NavNotice() {
         <li className='notification-item'>
           <i className='bi bi-x-circle text-danger'></i>
           <div>
-          <h4>Atque rerum nasciunt</h4>
-          <p>Quae dolorem earum veritatis oditseno</p>
+          <h4>Atenção</h4>
+          <p>Você possui um chamado de atenção</p>
           <p>1 hr. ago</p>
           </div>
         </li>
@@ -50,8 +50,8 @@ function NavNotice() {
         <li className='notification-item'>
             <i className='bi bi-check-circle text-sucess'></i>
             <div>
-                <h4>Sit rerum fuga</h4>
-                <p>Quae dolorem earum veritatis oditseno</p>
+                <h4>Concluido</h4>
+                <p>Você concluiu a task</p>
                 <p>2 hrs. ago</p>
             </div>
         </li>
@@ -63,8 +63,8 @@ function NavNotice() {
         <li className='notification-item'>
             <i className='bi bi-info-circle text-primary'></i>
             <div>
-                <h4>Dicta reprehenderit</h4>
-                <p>Quae dolorem earum veritatis oditseno</p>
+                <h4>Informação</h4>
+                <p>Você possui uma nova task</p>
                 <p>4 hrs. ago</p>
             </div>
         </li>
@@ -73,7 +73,7 @@ function NavNotice() {
             <hr className='dropdown-divider' />
         </li>
         <li className='dropdown-footer'>
-            <a href='#'> Mostrar todas as notificações</a>
+            <a href='#'>Ver mais notificações</a>
         </li>    
     </ul>
 </li>

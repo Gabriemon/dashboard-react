@@ -8,9 +8,13 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 
 import './App.css';
 import Header from './Components/Header';
+import SideBar from './Components/SideBar';
 
 function App() {
-  return <Header />
+  return <>
+    <Header/>
+    <SideBar/>
+  </>
 }
 
 export default App;

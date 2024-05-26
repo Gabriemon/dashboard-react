@@ -9,11 +9,13 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 import './App.css';
 import Header from './Components/Header';
 import SideBar from './Components/SideBar';
+import Main from './Components/Main';
 
 function App() {
   return <>
     <Header/>
     <SideBar/>
+    <Main />
   </>
 }
 

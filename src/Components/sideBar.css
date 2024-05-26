@@ -121,7 +121,7 @@
     transition: transform 0.2s ease-in-out;
 }
 
-.sidebar-nav .nav-link:not(collapsed) .bi-chevron-down {
+.sidebar-nav .nav-link:not(.collapsed) .bi-chevron-down {
     transform: rotate(180deg);
 }
 

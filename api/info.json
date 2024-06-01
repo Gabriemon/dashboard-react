@@ -1,0 +1,188 @@
+{
+    "cards": [
+      {
+        "_id":1,
+        "name" : "Sales",
+        "icon": "bi bi-cart",
+        "amount": 145,
+        "percentage": 0.12,
+        "active": true
+      },
+      {
+        "_id":2,
+        "name" : "Revenue",
+        "icon": "bi bi-currency-dollar",
+        "amount": 3246,
+        "percentage": 0.08,
+        "active": false
+      },
+      {
+        "_id":3,
+        "name" : "Customers",
+        "icon": "bi bi-people",
+        "amount": 1244,
+        "percentage": -0.11,
+        "active": false
+      }
+    ],
+    "news": [
+      {
+        "_id":1,
+        "img": "./Images/news-1.jpg",
+        "title":"sahushuas",
+        "subtitle":"suyaygsagysgy",
+        "category":"abc"
+      },
+      {
+        "_id":2,
+        "img":"./Images/news-2.jpg",
+        "title":"sagsyga",
+        "subtitle":"gysgyas",
+        "category":"abc"
+      },
+      {
+        "_id":3,
+        "img":"./Images/news-3.jpg",
+        "title":"sghyagysa",
+        "subtitle":"sgaygsya",
+        "category":"abc"
+      },
+      {
+        "_id":4,
+        "img":"./Images/news-4.jpg",
+        "title":"dasdasd",
+        "subtitle":"adsdasd",
+        "category":"abc"
+      },
+      {
+        "_id":5,
+        "img":"./Images/news-5.jpg",
+        "title":"dasdas",
+        "subtitle":"dasdas",
+        "category":"abc"
+      }     
+    ],
+    "topselling": [
+      {
+        "_id":1,
+        "preview":"./Images/product-1.jpg",
+        "name":"asdasd",
+        "price":64,
+        "sold":124
+      },
+      {
+        "_id":2,
+        "preview":"./Images/product-2.jpg",
+        "name":"dasdas",
+        "price":46,
+        "sold":98
+      },
+      {
+        "_id":13,
+        "preview":"./Images/product-3.jpg",
+        "name":"dasda",
+        "price":59,
+        "sold":74
+      },
+      {
+        "_id":4,
+        "preview":"./Images/product-4.jpg",
+        "name":"dasdas",
+        "price":32,
+        "sold":63
+      },
+      {
+        "_id":5,
+        "preview":"./Images/product-5.jpg",
+        "name":"dasdasd",
+        "price":79,
+        "sold":41
+      }
+    ],
+    "recentsales": [
+      {
+        "_id":1,
+        "number":"#2457",
+        "customer":"Gabriel Alves",
+        "product":"Moletom",
+        "price":64,
+        "status": "Approved"
+      },
+      {
+        "_id":2,
+        "number":"#2147",
+        "customer":"Gabriel Alves",
+        "product":"Moletom",
+        "price":47,
+        "status": "Rejected"
+      },
+      {
+        "_id":3,
+        "number":"#2049",
+        "customer":"Gabriel Alves",
+        "product":"Moletom",
+        "price":147,
+        "status": "Approved"
+      },
+      {
+        "_id":4,
+        "number":"#2457",
+        "customer":"Gabriel Alves",
+        "product":"Moletom",
+        "price":67,
+        "status": "Rejected"
+      },
+      {
+        "_id":5,
+        "number":"#2457",
+        "customer":"Gabriel Alves",
+        "product":"Moletom",
+        "price":135,
+        "status": "Approved"
+      }
+    ],
+    "recentactiviy": [
+      {
+        "_id":1,
+        "time":"32 min",
+        "color":"text-success",
+        "content":"ssasasas",
+        "highlight":"sasdqwdq"
+      },
+      {
+        "_id":2,
+        "time":"56 min",
+        "color":"text-danger",
+        "content":"dqwfqefwqef",
+        "highlight":"qdfqwd"
+      },
+      {
+        "_id":3,
+        "time":"2 hrs",
+        "color":"text-primary",
+        "content":"qwedqwdq",
+        "highlight":"fqwfqwf"
+      },
+      {
+        "_id":4,
+        "time":"1 day",
+        "color":"text-info",
+        "content":"awdqawdqw",
+        "highlight":"fqwfqfdq"
+      },
+      {
+        "_id":5,
+        "time":"2 days",
+        "color":"text-warning",
+        "content":"hjiashdghiaus",
+        "highlight":"jadihsudh"
+      },
+      {
+        "_id":6,
+        "time":"4 weeks",
+        "color":"text-muted",
+        "content":"xadsawdawda",
+        "highlight":"fqfqdahsduihg"
+      }
+    ]   
+}

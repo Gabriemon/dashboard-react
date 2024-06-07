@@ -65,35 +65,35 @@
     "topselling": [
       {
         "_id":1,
-        "preview":"./Images/product-1.jpg",
+        "preview":"./assets/items/product-1.jpg",
         "name":"asdasd",
         "price":64,
         "sold":124
       },
       {
         "_id":2,
-        "preview":"./Images/product-2.jpg",
+        "preview":"./assets/items/product-2.jpg",
         "name":"dasdas",
         "price":46,
         "sold":98
       },
       {
         "_id":13,
-        "preview":"./Images/product-3.jpg",
+        "preview":"./assets/items/product-3.jpg",
         "name":"dasda",
         "price":59,
         "sold":74
       },
       {
         "_id":4,
-        "preview":"./Images/product-4.jpg",
+        "preview":"./assets/items/product-4.jpg",
         "name":"dasdas",
         "price":32,
         "sold":63
       },
       {
         "_id":5,
-        "preview":"./Images/product-5.jpg",
+        "preview":"./assets/items/product-5.jpg",
         "name":"dasdasd",
         "price":79,
         "sold":41

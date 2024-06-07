@@ -49,7 +49,7 @@ function TopSelling() {
                         items.map(item => <TopSellingItem key={item._id} item={item} />)}
                 </tbody>
             </table>
-            </div>
+          </div>
         </div>
     );   
 }

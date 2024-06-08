@@ -66,35 +66,35 @@
       {
         "_id":1,
         "preview":"./assets/items/product-1.jpg",
-        "name":"asdasd",
+        "name":"Tênis",
         "price":64,
         "sold":124
       },
       {
         "_id":2,
         "preview":"./assets/items/product-2.jpg",
-        "name":"dasdas",
+        "name":"SmartWatch",
         "price":46,
         "sold":98
       },
       {
         "_id":13,
         "preview":"./assets/items/product-3.jpg",
-        "name":"dasda",
+        "name":"Perfume",
         "price":59,
         "sold":74
       },
       {
         "_id":4,
         "preview":"./assets/items/product-4.jpg",
-        "name":"dasdas",
+        "name":"Óculos Escuro",
         "price":32,
         "sold":63
       },
       {
         "_id":5,
         "preview":"./assets/items/product-5.jpg",
-        "name":"dasdasd",
+        "name":"Fone de Ouvido",
         "price":79,
         "sold":41
       }
@@ -104,40 +104,40 @@
         "_id":1,
         "number":"#2457",
         "customer":"Gabriel Alves",
-        "product":"Moletom",
-        "price":64,
+        "product":"SmartWatch",
+        "price":46,
         "status": "Approved"
       },
       {
         "_id":2,
         "number":"#2147",
-        "customer":"Gabriel Alves",
-        "product":"Moletom",
-        "price":47,
+        "customer":"Maria Victória",
+        "product":"Óculos Escuro",
+        "price":79,
         "status": "Rejected"
       },
       {
         "_id":3,
         "number":"#2049",
-        "customer":"Gabriel Alves",
-        "product":"Moletom",
-        "price":147,
+        "customer":"Maria Victória",
+        "product":"Perfume",
+        "price":59,
         "status": "Approved"
       },
       {
         "_id":4,
         "number":"#2457",
-        "customer":"Gabriel Alves",
-        "product":"Moletom",
-        "price":67,
+        "customer":"Maria Zanin",
+        "product":"Fone de Ouvido",
+        "price":79,
         "status": "Rejected"
       },
       {
         "_id":5,
         "number":"#2457",
         "customer":"Gabriel Alves",
-        "product":"Moletom",
-        "price":135,
+        "product":"Tênis",
+        "price":64,
         "status": "Approved"
       }
     ],
@@ -147,42 +147,42 @@
         "time":"32 min",
         "color":"text-success",
         "content":"ssasasas",
-        "highlight":"sasdqwdq"
+        "highlight":"LOUD Pancada é real"
       },
       {
         "_id":2,
         "time":"56 min",
         "color":"text-danger",
         "content":"dqwfqefwqef",
-        "highlight":"qdfqwd"
+        "highlight":"Aumento de 12%"
       },
       {
         "_id":3,
         "time":"2 hrs",
         "color":"text-primary",
         "content":"qwedqwdq",
-        "highlight":"fqwfqwf"
+        "highlight":"Queda de 11%"
       },
       {
         "_id":4,
         "time":"1 day",
         "color":"text-info",
         "content":"awdqawdqw",
-        "highlight":"fqwfqfdq"
+        "highlight":"5 vendas recentes"
       },
       {
         "_id":5,
         "time":"2 days",
         "color":"text-warning",
         "content":"hjiashdghiaus",
-        "highlight":"jadihsudh"
+        "highlight":"Tá barato demais"
       },
       {
         "_id":6,
         "time":"4 weeks",
         "color":"text-muted",
         "content":"xadsawdawda",
-        "highlight":"fqfqdahsduihg"
+        "highlight":"Black Fraude"
       }
     ]   
 }
